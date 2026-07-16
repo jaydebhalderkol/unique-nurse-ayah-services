@@ -1,1 +1,85 @@
-body{font-family:Arial;margin:40px;max-width:700px}h1{color:#0b6}
+body{
+margin:0;
+font-family:Arial,sans-serif;
+background:#f4f8fb;
+color:#333;
+}
+
+header{
+background:linear-gradient(135deg,#005b96,#00b4d8);
+color:white;
+text-align:center;
+padding:40px 20px;
+}
+
+header img{
+width:170px;
+border-radius:20px;
+margin-bottom:15px;
+}
+
+h1{
+margin:10px 0;
+font-size:38px;
+}
+
+.btn{
+display:inline-block;
+margin:10px;
+padding:12px 24px;
+background:#ffffff;
+color:#005b96;
+text-decoration:none;
+border-radius:30px;
+font-weight:bold;
+}
+
+.whatsapp{
+background:#25D366;
+color:white;
+}
+
+.hero{
+padding:60px 20px;
+text-align:center;
+background:white;
+}
+
+.hero h2{
+color:#005b96;
+font-size:32px;
+}
+
+.services{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+gap:20px;
+padding:40px;
+}
+
+.card{
+background:white;
+padding:25px;
+border-radius:15px;
+box-shadow:0 5px 15px rgba(0,0,0,.15);
+text-align:center;
+transition:.3s;
+}
+
+.card:hover{
+transform:translateY(-8px);
+}
+
+.contact{
+background:#005b96;
+color:white;
+text-align:center;
+padding:40px 20px;
+}
+
+footer{
+background:#003b5c;
+color:white;
+text-align:center;
+padding:20px;
+}
