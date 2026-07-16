@@ -1,1 +1,77 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Unique Nurse & Ayah Services</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+<img src="logo.png" alt="Logo" width="180">
+<h1>Unique Nurse & Ayah Services</h1>
+<p>Care with Compassion, Service with Trust</p>
+
+<a href="tel:+919432941098" class="btn">📞 Call Now</a>
+<a href="https://wa.me/919432941098" class="btn whatsapp">💬 WhatsApp</a>
+</header>
+
+<section class="hero">
+<h2>Professional Nurse & Ayah Services in Kolkata</h2>
+<p>
+24×7 Home Nursing, Patient Care, Elder Care, Baby Care and
+Professional Ayah Service.
+</p>
+</section>
+
+<section class="services">
+
+<div class="card">
+<h3>👩‍⚕️ Nurse Service</h3>
+<p>Experienced Female & Male Nurses.</p>
+</div>
+
+<div class="card">
+<h3>❤️ Patient Care</h3>
+<p>Home Patient Care by trained staff.</p>
+</div>
+
+<div class="card">
+<h3>👵 Elder Care</h3>
+<p>Professional elderly support at home.</p>
+</div>
+
+<div class="card">
+<h3>👶 Baby Care</h3>
+<p>Baby & Mother Care Service.</p>
+</div>
+
+</section>
+
+<section class="contact">
+<h2>Contact Us</h2>
+
+<p>📞 +91 9432941098</p>
+
+<p>📧 unique.point2010@gmail.com</p>
+
+<p>
+📍 3, Anukul Chandra Road,
+Tentulberia,
+Garia,
+Kolkata - 700084
+</p>
+
+</section>
+
+<footer>
+
+© 2026 Unique Nurse & Ayah Services
+
+</footer>
+
+</body>
+</html>
